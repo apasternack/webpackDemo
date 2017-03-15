@@ -1,0 +1,2 @@
+if you want npm to autogenerate the "devDependencies" key:value pair in package.json, then type:
+"npm install babel-core babel-loader --save-dev
